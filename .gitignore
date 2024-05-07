@@ -1,0 +1,11 @@
+.idea
+*.iml
+out
+__pycache__
+gen
+.venv
+/data/.env
+*.session
+*.db
+диаграмма.drawio
+venv
